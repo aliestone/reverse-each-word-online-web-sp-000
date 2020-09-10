@@ -1,3 +1,6 @@
 def reverse_each_word(string)
-  string.split(",").arr.reverse!.join(",")
+string.split()
+array.map { |element| element * 2 }
+  puts element
 end
+  
